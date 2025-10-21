@@ -19,7 +19,7 @@
 <a href="https://github.com/ossamamehmood/Hacktoberfest/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest" />
 </a>
-  -[soundarya D](https://github.com/soundaryad-20) - Hacktoberfest 2025 Participant
+  
   </div>
 
 ## This Project Is Perfect For Your First Pull Request
